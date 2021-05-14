@@ -514,7 +514,7 @@ img {
   transition: transform 250ms linear, -webkit-transform 250ms linear;
 }
 
-.checkbox__input:checked + .icon {
+.checkbox__input:checked + .checkbox__icon {
   border-radius: 2px;
   border-color: transparent;
   background-color: #2196f3;
@@ -731,7 +731,7 @@ img {
 }
 
 .clients-section__title {
-  argin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .clients-list {

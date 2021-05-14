@@ -152,7 +152,7 @@
   transition: transform 250ms linear;
 }
 
-.checkbox__input:checked + .icon {
+.checkbox__input:checked + .checkbox__icon {
   border-radius: 2px;
   border-color: transparent;
   background-color: $accent-color;
